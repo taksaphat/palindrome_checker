@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.e6effeea.js",
-    "index.html": "/index.html",
-    "main.e6effeea.js.map": "/static/js/main.e6effeea.js.map"
+    "main.js": "/taksaphat/palindrome_checker/static/js/main.e6effeea.js",
+    "index.html": "/taksaphat/palindrome_checker/index.html",
+    "main.e6effeea.js.map": "/taksaphat/palindrome_checker/static/js/main.e6effeea.js.map"
   },
   "entrypoints": [
     "static/js/main.e6effeea.js"
