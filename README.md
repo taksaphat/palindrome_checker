@@ -1,2 +1,2 @@
 # palindrome_checker
-Display longest palindrome in certain string
+Display longest palindrome in input string
